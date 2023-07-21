@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sotadigon Dokon</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sotadigon Dokon</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Bosh sahifa</a></li>
+                <li><a href="#products">Mahsulotlar</a></li>
+                <li><a href="#contact">Bog'lanish</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Bosh sahifa</h2>
+            <p>Ushbu sahifa sotadigon do'koning bosh sahifasidir.</p>
+        </section>
+
+        <section id="products">
+            <h2>Mahsulotlar</h2>
+            <p>Bu yerda sotadigon do'konda mavjud mahsulotlar ro'yxati joylashadi.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Bog'lanish</h2>
+            <p>Bu yerda do'kon bilan bog'lanish uchun ma'lumotlar mavjud bo'ladi.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Sotadigon Dokon</p>
+    </footer>
+</body>
+</html>
